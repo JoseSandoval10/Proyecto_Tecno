@@ -1,0 +1,35 @@
+c:\users\pc 26 lab 4\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+c:\users\pc 26 lab 4\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+c:\users\pc 26 lab 4\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form2.resources
+c:\users\pc 26 lab 4\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+c:\users\pc 26 lab 4\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+c:\users\pc 26 lab 4\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+c:\users\pc 26 lab 4\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\pc 26 lab 4\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\pc 26 lab 4\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\pc 26 lab 4\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+c:\users\pc 26 lab 4\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+E:\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+E:\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+E:\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+E:\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.crud.resources
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form2.resources
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\pc 26 lab 4\Downloads\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+C:\Users\pc 26 lab 4\Downloads\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+C:\Users\pc 26 lab 4\Downloads\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+C:\Users\pc 26 lab 4\Downloads\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+C:\Users\pc 26 lab 4\Downloads\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\pc 26 lab 4\Downloads\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\pc 26 lab 4\Downloads\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\pc 26 lab 4\Downloads\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+C:\Users\pc 26 lab 4\Downloads\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.crud.resources
+C:\Users\pc 26 lab 4\Downloads\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form2.resources
+C:\Users\pc 26 lab 4\Downloads\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+C:\Users\pc 26 lab 4\Downloads\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
